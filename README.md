@@ -1,4 +1,4 @@
-# Hello, I'm [Abdul Nayeem]! 👋
+# Hello, I'm Abdul Nayeem! 👋
 
 ![Alt text](which.jpg)
 
