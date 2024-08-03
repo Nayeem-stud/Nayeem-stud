@@ -44,18 +44,13 @@ A brief description of the project, highlighting its features and what you contr
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&hide_title=true&hide_rank=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayeem-stud&show_icons=true&count_private=true)
 
-## 📝 Latest Blog Posts
-
-- [Blog Post Title 1](link-to-blog-post) - A brief description of the blog post.
-- [Blog Post Title 2](link-to-blog-post) - A brief description of the blog post.
 
 ## 🤝 Let's Connect
 
-- **LinkedIn**: [Your LinkedIn Profile](link-to-your-linkedin)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shaikabdulnayeem/)
+- **Email**: [Sent Email](mailto:shaikabdul3133@gmail.com)
 
 ## 💬 Ask Me About
 
