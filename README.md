@@ -42,10 +42,6 @@ A brief description of the project, highlighting its features and what you contr
 ### [Another Project Name](link-to-project)
 A brief description of the project, highlighting its features and what you contributed.
 
-## 📈 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayeem-stud&show_icons=true&count_private=true)
-
 
 ## 🤝 Let's Connect
 
