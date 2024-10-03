@@ -13,7 +13,7 @@
 ## Portfolio
 
 Check out my portfolio to see some of my latest work and projects:
-[Visit My Portfolio](https://nayeemportfolio.netlify.app/)
+[Visit My Portfolio](https://portfolio-nayeem.netlify.app/)
 
 Thanks for stopping by! Have a great day! 😊
 
@@ -33,14 +33,6 @@ Thanks for stopping by! Have a great day! 😊
 - **Cloud Platforms**: AWS, GCP
 - **Databases**: MongoDB, SQL
 - **Tools**: Git, Docker, Jenkins, Salesforce
-
-## 🌟 Projects
-
-### [Project Name](link-to-project)
-A brief description of the project, highlighting its features and what you contributed.
-
-### [Another Project Name](link-to-project)
-A brief description of the project, highlighting its features and what you contributed.
 
 
 ## 🤝 Let's Connect
