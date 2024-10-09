@@ -3,9 +3,6 @@
 ![Alt text](which.jpg)
 
 
-
-## About Me
-
 # Welcome to my GitHub profile!
 
 I'm a passionate **Full-Stack Web Developer** with a knack for crafting interactive, user-friendly web applications. My expertise spans across both **front-end** and **back-end** technologies, with a deep love for problem-solving and pushing the boundaries of what's possible in web development. I'm constantly learning and contributing to **open-source projects**, and I thrive on the opportunity to collaborate with like-minded developers.
