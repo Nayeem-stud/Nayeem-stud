@@ -5,21 +5,24 @@
 
 # Welcome to my GitHub profile!
 
-I'm a passionate **Full-Stack Web Developer** with a knack for crafting interactive, user-friendly web applications. My expertise spans across both **front-end** and **back-end** technologies, with a deep love for problem-solving and pushing the boundaries of what's possible in web development. I'm constantly learning and contributing to **open-source projects**, and I thrive on the opportunity to collaborate with like-minded developers.
+I'm a **passionate Full-Stack Web Developer** with expertise in the **MERN stack** and a strong foundation in **AI/ML**, **data science**, and **software engineering**. I specialize in creating **interactive, user-friendly web applications** and am always eager to explore new fields, including **manage accounting** and **AI-powered solutions**.
 
-### Like a conductor orchestrating symphonies, I bring together powerful technologies to build seamless web experiences using the **MERN stack** and deploy them efficiently using **cloud services** like **AWS, GCP, or Azure**. Speed optimization and user satisfaction are my priorities, and I enjoy solving tricky problems and delivering innovative, impactful solutions.
+With hands-on experience in **full-stack development**, I've built impactful projects and honed my skills through internships at **Cognifyz Technologies** and **AICTE’s Juniper Networking program**. I'm driven by the excitement of turning complex challenges into innovative, practical solutions.  
 
-### As a recent **B.Tech graduate** and an **aspiring Software Developer**, my journey has been shaped by hands-on experience in **full-stack development**, especially in the **MERN stack (MongoDB, Express.js, React.js, Node.js)**, as well as **Python**. I'm driven by the excitement of turning complex challenges into innovative solutions. My experience spans impactful internships at **Cognifyz Technologies** and **AICTE’s Juniper Networking program**, where I sharpened my skills and learned to thrive in dynamic environments.
+Whether it's **AI/ML**, **data science**, or **web development**, my goal is to create **seamless, scalable applications** that make a difference. Let's connect and explore how I can help bring your ideas to life.
 
-### Whether it’s building robust web apps, diving deep into **predictive analytics**, or enhancing **e-commerce platforms**, my goal is to turn ideas into **innovation**. I’m always excited to take on projects that push my limits and make a tangible difference. A special shout-out to my amazing friends and colleagues who inspire me every step of the way!
-
-### So, if you're seeking a passionate partner to build the future—one cloud-powered app at a time—you're in the right place! Let’s connect, explore my portfolio, dive into project stories, and chat about how my skills can bring your vision to life.
+## Key Interests:
+- **Full-Stack Web Development**
+- **AI/ML Engineering**
+- **Data Science**
+- **Software Engineering**
+- **Manage Accounting**
 
 
 ## Portfolio
 
 Check out my portfolio to see some of my latest work and projects:
-[Visit My Portfolio](https://portfolio-nayeem.netlify.app/)
+[Visit My Portfolio](https://seasoned-web-persona-showcase.lovable.app/)
 
 Thanks for stopping by! Have a great day! 😊
 
