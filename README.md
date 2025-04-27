@@ -28,57 +28,105 @@ Thanks for stopping by! Have a great day! 😊
 
 
 
-## 🚀 About Me
+# About Me
 
-- 💻 **Tech Enthusiast**: Skilled in Python, AI/ML, AWS, GCP, and DevOps.
-- 🌐 **Web Developer**: Experienced in the MERN stack and creating interactive web applications.
-- 📊 **Data Scientist**: Enthusiastic about data analysis and predictive modeling.
-- 🔒 **Cybersecurity Advocate**: Dedicated to enhancing digital security and privacy.
+I’m a focused, adaptable, and growth-minded **team leader** with a strong tech background. Skilled in managing people, projects, and product lifecycles, I enjoy turning ideas into real, working solutions — whether it’s building a product, leading a team, or improving how things get done. With hands-on experience in development, problem-solving, and collaboration, I bring both the mindset of a builder and the clarity of a manager. I believe in working smart, supporting others, and creating value every step of the way. Always ready to learn, lead, and grow with a forward-thinking, product-driven company.
 
-## 🛠️ Technologies & Tools
+## Education
 
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks**: React, Express.js, Node.js
-- **Cloud Platforms**: AWS, GCP
-- **Databases**: MongoDB, SQL
-- **Tools**: Git, Docker, Jenkins, Salesforce
+- **Vasireddy Venkatadri Institute of Technology**  
+  B.Tech in Computer Science (AI & ML), CGPA: 7.9 / 10  
+  *Guntur, Andhra Pradesh, India*  
+  Aug 2022 – April 2025
 
+- **Government Polytechnic Kandukur**  
+  Diploma in Electrical and Electronics Engineering, CGPA: 7.6 / 10  
+  *Kandukur, Andhra Pradesh, India*  
+  Jul 2019 – May 2022
 
-## 🤝 Let's Connect
+- **Sri Vivekananda High School**  
+  Secondary School Education / 10th class, CGPA: 9.3 / 10  
+  *Singarayakonda, Andhra Pradesh, India*  
+  June 2018 – May 2019
 
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shaikabdulnayeem/)
-- **Email**: [Sent Email](mailto:shaikabdul3133@gmail.com)
+## Skills Summary
 
-## 💬 Ask Me About
+### Managerial Skills
+- **Team leadership**, **strategic planning**, **performance tracking**, **cross-functional coordination**
 
-- AI & Machine Learning
-- Web Development & the MERN Stack
-- Data Science & Analytics
-- Cloud Computing & DevOps
-- Cybersecurity Best Practices
+### Technical Skills
+- **Data Entry**, **MERN stack understanding**, **API integration**, **cloud deployment** (Heroku, Netlify), **version control** (Git)
 
-## 📚 Currently Learning
+### Project Handling
+- **Task delegation**, **project execution**, **productivity tools** (Jira, Trello, Notion), **roadmap planning**
 
-- Advanced AI Techniques
-- Cloud Architecture Optimization
-- Data Visualization Tools
+### Communication
+- **Client handling**, **reporting**, **team collaboration**, **stakeholder updates**
 
-## 🎯 Goals for 2024
+### Growth Mindset
+- **Quick learner**, **problem solver**, **open to feedback**, adapts fast in dynamic environments
 
-- Contribute to more open-source projects
-- Develop a new web application with cutting-edge technologies
-- Enhance my skills in data science and machine learning
+## Strengths & Weaknesses
 
-## 🏆 Achievements
+### Strengths
+- **Learning**: Fast learner, tech mastery
+- **Communication**: Adaptable listener, feedback-friendly
+- **Productivity**: Time management, self-motivation
+- **Teamwork**: Supportive in collaborations, logical thinker
+- **Presentation**: Curious, hands-on learner
 
-- Completed a one-month data science internship at Cognifyz
-- Developed a comprehensive event management system for a college project
-- Certified in AWS Solutions Architect and Google Cloud Professional
+### Weaknesses
+- Struggles in **multitasking**
+- **Limited real-world exposure**
+- **Overthinking simple problems**
+- **Hesitation in asking for help**
+- **Perfectionism**
 
-## 🌐 Explore My Other Repositories
+## Software Projects
 
+### **Doctor Appointment System | Full Stack Developer**
+- Designed a **full-stack Doctor Appointment System** using **React.js**, **Node.js**, and **Express.js**, enabling **real-time appointment booking** and **role-based dashboards**.
+- Deployed the application on **Lovable AI platform**, reducing **manual scheduling errors by 60%** and significantly enhancing **patient-doctor communication**.
+
+### **Yoga Pose Detection System | Deep Learning Engineer**
+- Built a **yoga pose classification system** using **deep learning models** like **VGG16**, **DenseNet**, and **MobileNet**, achieving high **real-time accuracy** through model optimization techniques.
+- Developed a **web-based interface** with **Flask backend** and **TensorFlow/Keras model deployment**, enhancing user experience with instant pose recognition.
+
+## Experience & Internships
+
+### **Electrical Intern | Assembling & Testing of Low Voltage Panels & Switchgear**
+- Completed hands-on industrial training focused on assembling and testing electrical components used in **low voltage panels** and **switchgear systems**.
+- Strengthened foundational skills in **circuit interpretation**, **troubleshooting**, and **testing** of industrial electrical equipment.
+
+### **Data Science Intern | Cognifyz Technologies**
+- Completed a one-month internship focused on **data cleaning** and **analysis** of large datasets exceeding 1 million records.
+- Developed **predictive models** that enhanced forecasting accuracy by **22%**, contributing to more informed decision-making within the team.
+
+## Languages Known
+- **English**
+- **Hindi**
+- **Telugu**
+- **Urdu**
+
+## Achievements
+
+- Secured **Rank 10,414** in **AP POLYCET** out of lakhs of candidates.
+- Achieved **Rank 778** in **AP ECET**, showcasing technical proficiency.
+- Served as the **Primary Technical Key Person** in the **B.Tech final year project**, leading core implementation and problem-solving.
+- Successfully built and deployed a **personal portfolio website** to showcase skills, projects, and achievements.
+- Successfully deployed multiple **full-stack applications** in live hosting.
+- Completed internships in **Data Science** and **Networking (AICTE Internships)**, gaining hands-on experience in real-time systems.
+
+## Explore My Other Repositories
 Feel free to check out my other repositories for more projects and code samples!
 
 ---
+
+**Let's Connect**
+
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shaikabdulnayeem/)
+- **Email**: [Send Email](mailto:shaikabdul3133@gmail.com)
+
+
 
 Thank you for visiting my profile! If you have any questions or just want to chat about tech, feel free to reach out.
