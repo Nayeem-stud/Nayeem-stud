@@ -82,7 +82,7 @@ I’m a focused, adaptable, and growth-minded **team leader** with a strong tech
 - **Hesitation in asking for help**
 - **Perfectionism**
 
-## Software Projects
+## Major Software Projects
 
 ### **Doctor Appointment System | Full Stack Developer**
 - Designed a **full-stack Doctor Appointment System** using **React.js**, **Node.js**, and **Express.js**, enabling **real-time appointment booking** and **role-based dashboards**.
@@ -124,7 +124,7 @@ Feel free to check out my other repositories for more projects and code samples!
 
 **Let's Connect**
 
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shaikabdulnayeem/)
+- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/nayeem1403)
 - **Email**: [Send Email](mailto:shaikabdul3133@gmail.com)
 
 
