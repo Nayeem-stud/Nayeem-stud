@@ -3,7 +3,7 @@
 ![Alt text](which.jpg)
 
 <h1 align="center">👋 Hi there, I'm <span style="color:#00CED1">Shaik Abdul Nayeem</span></h1>
-<h3 align="center">🚀 Full-Stack Developer | AI/ML Engineer | Software Innovator | Data Science Enthusiast 🚀</h3>
+<h3 align="center">🚀 Aspiring Software Engineer | Full-Stack Developer (MERN) | AI & ML Enthusiast | Open to Opportunities Across Full-Stack Development, SDE, and Emerging Technologies 🚀</h3>
 
 <p align="center">
   <a href="mailto:shaikabdul3133@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -63,7 +63,7 @@ Here’s what I use day-to-day:
 - Built a real-time yoga pose classification system with **VGG16, DenseNet, MobileNet**
 - Integrated deep learning model with **Flask backend** and web UI for real-time feedback
 - Optimized inference pipeline for high accuracy and responsiveness  
-🔗 [Repository](#) • [Live Demo](#)
+🔗 [Repository](https://github.com/Nayeem-stud/Project_yoga) • [Live Demo](https://github.com/Nayeem-stud/Project_yoga/blob/main/Project%20Documentation/Project%20Documentation.pdf)
 
 ---
 
@@ -71,7 +71,7 @@ Here’s what I use day-to-day:
 - Developed a complete MERN application for **real-time appointment booking**
 - Created **role-based dashboards** for patients and doctors  
 - Reduced manual scheduling errors by **60%**, improving communication efficiency  
-🔗 [Repository](#) • [Live Demo](#)
+🔗 [Repository](https://github.com/Nayeem-stud/chrono-med-appointments) • [Live Demo](https://chrono-med-appointments.lovable.app/)
 
 ---
 
@@ -79,7 +79,7 @@ Here’s what I use day-to-day:
 - Designed and implemented a real-time event management app with **Socket.io**
 - Improved registration efficiency by **40%** and reduced response times by **50%**
 - Collaborated in a team of 5 using **Git/GitHub** for seamless version control  
-🔗 [Repository](#) • [Live Demo](#)
+🔗 [Repository](https://github.com/Nayeem-stud/Event-Managment-System) • [Live Demo](https://github.com/Nayeem-stud/Event-Managment-System/blob/main/Project-Documentation.pdf)
 
 ---
 
