@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/nayeemworks"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
   <a href="https://nayeemworks.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-success?style=flat-square&logo=react"/></a>
   <a href="https://github.com/Nayeem-stud"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/></a>
-  <a href="https://nayeemworks.netlify.app/Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-ff69b4?style=flat-square&logo=adobeacrobatreader"/></a>
+  <a href="https://drive.google.com/file/d/1aWB2EhYBVtPzi5oerBElV2QSfv9Q6dOB/view"><img src="https://img.shields.io/badge/Download_Resume-ff69b4?style=flat-square&logo=adobeacrobatreader"/></a>
 </p>
 
 ---
