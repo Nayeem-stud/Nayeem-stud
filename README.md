@@ -139,7 +139,7 @@ Here’s what I use day-to-day:
 - 🥇 Ranked **#778** in AP ECET among thousands of candidates  
 - 👨‍💻 Led the **final year AI/ML project** as Primary Technical Engineer  
 - 🚀 Deployed **5+ full-stack apps** into production  
-- 🧠 Completed **multiple global certifications** in cloud, data, and full-stack engineering  
+- 🧠 Completed **multiple global certifications** in cloud, data, and full-stack engineering    
 
 ---
 
@@ -154,5 +154,5 @@ Here’s what I use day-to-day:
 
 ---
 
-⭐ **“Code is like humor — when you have to explain it, it’s bad.” — Cory House**  
+⭐ **“ Code is like humor — when you have to explain it, it’s bad. ” — Cory House**  
 🛠️ Made with ❤️ by **Shaik Abdul Nayeem**
