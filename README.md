@@ -58,7 +58,7 @@ Here’s what I use day-to-day:
 ---
 
 ## 📁 Major Projects
-
+ 
 ### 🧘‍♂️ Yoga Pose Detection System | Deep Learning Engineer
 - Built a real-time yoga pose classification system with **VGG16, DenseNet, MobileNet**
 - Integrated deep learning model with **Flask backend** and web UI for real-time feedback
