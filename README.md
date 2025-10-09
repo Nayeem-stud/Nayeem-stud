@@ -37,7 +37,7 @@ I am **Shaik Abdul Nayeem**, a passionate **Full-Stack Web Developer** and **AI/
 I work across the entire development lifecycle — from planning and design to deployment and scaling.  
 Here’s what I use day-to-day:
 
-### 🖥️ Frontend
+### 🖥️ Frontend 
 - HTML5, CSS3, JavaScript (ES6+), React.js, Redux, Styled Components
 
 ### 🧰 Backend
