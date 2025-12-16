@@ -2,7 +2,7 @@
 
 ![Alt text](which.jpg)   
   
-<h1 align="center">👋 Hi there, I'm <span style="color:#00CED1">Shaik Abdul Nayeem</span></h1>
+<h1 align="center">👋 Hi there, I'm <span style="color:#00CED1">Shaik Abdul Nayeem</span></h1>  
 <h3 align="center">🚀 Aspiring Software Engineer | Full-Stack Developer (MERN) | AI & ML Enthusiast | Open to Opportunities Across Full-Stack Development, SDE, and Emerging Technologies  🚀</h3>
 
 <p align="center">
