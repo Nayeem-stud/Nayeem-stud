@@ -1,7 +1,7 @@
 <!-- 🌟 Shaik Abdul Nayeem | Professional GitHub README 🌟 -->
 
 <p align="center">
-  <img src="which.jpg" width="180" style="border-radius:50%" />
+  <img src="which.jpg" width="280" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00CED1">Shaik Abdul Nayeem</span></h1>
@@ -126,11 +126,11 @@ Vasireddy Venkatadri Institute of Technology, Guntur
 
 🎓 **Diploma – Electrical & Electronics Engineering**  
 Government Polytechnic Kandukur  
-**CGPA:** 9.3 / 10
+**CGPA:** 7.57 / 10
 
 🎓 **SSC (10th Class)**  
 Sri Vivekananda High School  
-**CGPA:** 7.57 / 10
+**CGPA:** 9.3 / 10
 
 ---
 
