@@ -14,7 +14,7 @@
 
 ---
 
-<h2 style="color:#2F80ED;">Summary</h2>
+<h2 style="color: red;">Summary</h2>
 
 **Certified Data Scientist** trainee at **Datamites Institute** with strong fundamentals in statistics, data analysis, and machine learning. Skilled in Python, SQL, EDA, and predictive modeling, with hands-on experience transforming **raw data into meaningful insights and building data-driven solutions for business problems**
 
