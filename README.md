@@ -3,24 +3,20 @@
 ![Alt text](which.jpg)   
   
 <h1 align="center">👋 Hi there, I'm <span style="color:#00CED1">Shaik Abdul Nayeem</span></h1>       
-<h3 align="center">🚀 Aspiring Software Engineer | Full-Stack Developer (MERN) | AI & ML Enthusiast | Open to Opportunities Across Full-Stack Development, SDE, and Emerging Technologies  🚀</h3>
+<h3 align="center">🚀 Data Scientist And Machine learning Engineer | AI & ML Enthusiast | Open to Opportunities Across Full-Stack Development and Emerging Technologies  🚀</h3>
 
 <p align="center">
-  <a href="mailto:shaikabdul3133@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nayeemworks"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
-  <a href="https://nayeemworks.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-success?style=flat-square&logo=react"/></a>
-  <a href="https://github.com/Nayeem-stud"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/></a>
-  <a href="https://drive.google.com/file/d/1aWB2EhYBVtPzi5oerBElV2QSfv9Q6dOB/view"><img src="https://img.shields.io/badge/Download_Resume-ff69b4?style=flat-square&logo=adobeacrobatreader"/></a>
-</p>
+  <a href="mailto:vianayeem@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vianayeem"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="https://vianayeem.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-success?style=flat-square&logo=react"/></a>
+  <a href="https://github.com/viaNayeem"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/></a>
+  </p>
 
 ---
 
 ## 🧠 About Me
 
-I am **Shaik Abdul Nayeem**, a passionate **Full-Stack Web Developer** and **AI/ML Engineer** who enjoys transforming ideas into real-world solutions. With a strong foundation in **software engineering, data science, and cloud technologies**, I’m driven by solving complex challenges and crafting scalable, impactful applications.
-
-💡 **My vision:** To build intelligent, user-centric digital products that empower businesses and individuals.  
-⚡ **My mission:** To grow as a multidisciplinary engineer, continuously learning and applying modern technologies to real-world problems.
+**Certified Data Scientist** trainee at **Datamites Institute** with strong fundamentals in statistics, data analysis, and machine learning. Skilled in Python, SQL, EDA, and predictive modeling, with hands-on experience transforming **raw data into meaningful insights and building data-driven solutions for business problems**
 
 ---
 
