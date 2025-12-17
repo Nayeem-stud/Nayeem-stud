@@ -20,6 +20,145 @@
 
 ---
 
+# SHAIK ABDUL NAYEEM
+**LAST UPDATED ON DEC 2025**
+
+📧 vianayeem@gmail.com  
+📞 +91 9381160221  
+🌐 https://nayeemworks.netlify.app/  
+💻 https://github.com/vianayeem  
+🔗 https://www.linkedin.com/nayeemworks  
+
+---
+
+Certified Data Scientist trainee at Datamites Institute with strong fundamentals in statistics, data analysis, and machine
+learning. Skilled in Python, SQL, EDA, and predictive modeling, with hands-on experience transforming raw data into meaningful
+insights and building data-driven solutions for business problems.
+
+---
+
+## SUMMARY
+
+**Data Scientist | Python | Machine Learning**
+
+---
+
+## PROJECTS
+
+### Customer Churn Analysis and Prediction  
+**Dataset on Telecom & Subscription Businesses**
+
+Built an end-to-end customer churn prediction system using real telecom data (7,043 records, 38 features) by performing EDA,
+feature engineering, and training machine learning classification models in Python.  
+Developed a production-ready ML pipeline and Flask REST API to serve real-time churn predictions, integrated with a Node.js backend
+and React frontend.  
+Created an interactive Power BI dashboard to visualize churn drivers, customer segments, and revenue impact, enabling data-driven
+retention strategies.
+
+**Tech Stack :**  
+Python (Pandas, NumPy, Scikit-learn), Flask (ML API), Node.js & Express (Backend), React.js (Frontend), Power BI
+(Dashboard & Insights), Git & GitHub
+
+---
+
+### Yoga Pose Detection System  
+**Deep Learning | Django**
+
+Built a deep learning–based yoga pose classification system using VGG16, DenseNet, and MobileNet, applying transfer learning and
+model optimization techniques to achieve high real-time prediction accuracy.  
+Developed and deployed the trained models using TensorFlow/Keras with a Django-based full-stack web application for instant
+yoga pose recognition from user-input images.  
+Designed the system for real-time inference and scalable deployment, focusing on performance optimization and an intuitive user
+experience.
+
+**Tech Stack :**  
+Python, TensorFlow, Keras, OpenCV, Django, HTML, CSS, JavaScript, Git & GitHub
+
+---
+
+### College Event Management System  
+**MERN Stack Developer**
+
+Engineered a full-stack college event management system using the MERN stack, improving event registration efficiency by 40%
+through automated workflows.  
+Integrated real-time communication features using Socket.io, reducing user response time by 50% and enhancing event coordination.  
+Collaborated with a 5-member team, leveraging Git/GitHub for version control, resulting in a 30% improvement in development
+efficiency and smoother team collaboration.
+
+**Tech Stack :**  
+MongoDB, Express.js, React.js, Node.js, Socket.io, JavaScript, Git & GitHub
+
+---
+
+## EXPERIENCE
+
+### Data Science & Machine Learning Intern  
+**DataMites Institute**  
+*Nov 2025 – Present*
+
+Currently pursuing an intensive internship focused on real-world applications of Data Science and Machine Learning. Developing
+hands-on expertise in data preprocessing, exploratory data analysis (EDA), and building predictive models using live datasets.
+
+**Tech Stack :**  
+Python, Stats, ML, MySQL, MongoDB, Power BI & Tableau (Dashboard & Insights), Git & GitHub (Version Control)
+
+---
+
+### Data Science Intern  
+**Cognifyz Technologies | Remote**  
+*June 2024 – July 2024*
+
+Completed a one-month internship focused on data cleaning and analysis of large datasets exceeding 1 million records.
+Developed predictive models that enhanced forecasting accuracy by 22%, contributing to more informed decision-making within the team.
+
+**Tech Stack :**  
+Python, Data Cleaning, Data Handling & Storage, Predictive Models
+
+---
+
+### Salesforce Developer  
+**Smart Internz | Virtual Intern**  
+*November 2023 – January 2024*
+
+Developed custom Salesforce applications using Apex and Lightning components, improving workflow automation by 50% and
+reducing manual entry errors by 35%. Automated business processes, saving approximately 15 hours of administrative work per week.
+
+**Tech Stack :**  
+Salesforce Platform, Apex, Lightning Web Components (LWC), Salesforce (Profiles, Roles, Permission Sets), Git & GitHub
+
+---
+
+## EDUCATION
+
+**Vasireddy Venkatadri Institute of Technology, Guntur, Andhra Pradesh**  
+B.Tech in Computer Science Engineering (Artificial Intelligence & Machine Learning)  
+**CGPA:** 8.02 / 10 | Aug 2022 – Jun 2025  
+
+---
+
+**Government Polytechnic Kandukur, Kandukur, Andhra Pradesh**  
+Diploma in Electrical and Electronics Engineering (EEE)  
+**CGPA:** 9.3 / 10 | June 2018 – May 2019  
+
+---
+
+**Sri Vivekananda High School, Singarayakonda, Andhra Pradesh**  
+Secondary School Education (SSC / 10th Class)  
+**CGPA:** 7.57 / 10 | July 2019 – May 2022  
+
+---
+
+## CERTIFICATIONS
+
+- Certified Associate Cloud Engineer (Google Cloud) – Global Certification, 2024 – 2027  
+- Data Science Foundations (IBM) – Professional Certificate, 2024  
+- IT Automation with Python (Google) – Professional Certificate, 2024  
+- Data Analytics (Google) – Professional Certificate, 2024  
+- The Full Stack (Meta) – Professional Certificate, 2024  
+
+
+---
+
 ### 🧭 What Drives Me
 - 🧠 Constant curiosity and love for problem-solving  
 - 🔭 Passion for exploring AI, data, and cutting-edge technologies  
