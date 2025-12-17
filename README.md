@@ -1,7 +1,7 @@
 <!-- 🌟 Shaik Abdul Nayeem | Professional GitHub README 🌟 -->
 
 <p align="center">
-  <img src="which.jpg" width="280" />
+  <img src="which.jpg"  />
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00CED1">Shaik Abdul Nayeem</span></h1>
